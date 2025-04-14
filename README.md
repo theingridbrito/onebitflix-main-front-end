@@ -2,6 +2,7 @@
 
 Bem-vindo ao repositório do **OneBitFlix**, uma plataforma fictícia de streaming de vídeos inspirada em serviços como a Netflix. Este projeto foi desenvolvido como parte dos meus estudos em desenvolvimento web e front-end moderno.
 
+![image](https://github.com/ViniPessan/onebitflixFrontend/assets/136939544/48f7d6cc-5d07-4855-82d6-7a0c7323076b)
 ## 📌 Sobre o Projeto
 
 O **OneBitFlix** simula funcionalidades comuns de plataformas de streaming, incluindo:
