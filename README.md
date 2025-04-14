@@ -25,25 +25,25 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Como Rodar o Projeto
 
-###1. Clone este repositório:
+### 1. Clone este repositório:
 
 git clone https://github.com/theingridbrito/onebitflix-main-front-end.git
 
-###2. Acesse a pasta do projeto:
+### 2. Acesse a pasta do projeto:
 
 cd onebitflix-main-front-end
 
-###3. Instale as dependências:
+### 3. Instale as dependências:
 
 npm install
 
-###4. Inicie o projeto:
+### 4. Inicie o projeto:
 
 npm run dev
 O projeto estará rodando em http://localhost:3000.
 
 
-##🛠 Estrutura de Pastas
+## 🛠 Estrutura de Pastas
 
 📁 onebitflix-main-front-end
 
@@ -64,5 +64,7 @@ O projeto estará rodando em http://localhost:3000.
 ├── package.json
 
 └── tsconfig.json
+
+
 
 Feito com 💜 por [Ingrid Brito](https://github.com/theingridbrito)
