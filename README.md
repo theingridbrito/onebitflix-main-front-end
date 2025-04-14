@@ -44,6 +44,7 @@ O projeto estará rodando em http://localhost:3000.
 
 
 ##🛠 Estrutura de Pastas
+
 📁 onebitflix-main-front-end
 
 ├── 📁 pages
