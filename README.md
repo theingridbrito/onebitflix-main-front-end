@@ -45,14 +45,23 @@ O projeto estará rodando em http://localhost:3000.
 
 ##🛠 Estrutura de Pastas
 📁 onebitflix-main-front-end
+
 ├── 📁 pages
+
 ├── 📁 public
+
 ├── 📁 src
+
 ├── 📁 styles
+
 ├── .env
+
 ├── .eslintrc.json
+
 ├── next.config.mjs
+
 ├── package.json
+
 └── tsconfig.json
 
 Feito com 💜 por [Ingrid Brito](https://github.com/theingridbrito)
